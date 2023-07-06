@@ -373,7 +373,7 @@ scrapy crawl douban
 
 打开excel表格和数据库查看抓取结果。
 
-  ![img](file:///C:/Users/Administrator/AppData/Local/Packages/oice_16_974fa576_32c1d314_2012/AC/Temp/msohtmlclip1/01/clip_image004.gif)
+
 
  
 
@@ -415,7 +415,7 @@ for row in result:
 
 db.close()
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Packages/oice_16_974fa576_32c1d314_2012/AC/Temp/msohtmlclip1/01/clip_image006.gif)**
+
 
  
 
