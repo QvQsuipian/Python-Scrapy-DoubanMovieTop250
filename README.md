@@ -35,10 +35,6 @@ Scrapy是一个为了爬取网站数据，提取结构性数据而编写的应�
 
 其最初是为了页面抓取 (更确切来说, 网络抓取 )所设计的， 也可以应用在获取API所返回的数据(例如 Amazon Associates Web Services ) 或者通用的网络爬虫。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。Scrapy 使用了 Twisted异步网络库来处理网络通讯。整体架构大致如下
 
-![img](file:///C:/Users/Administrator/AppData/Local/Packages/oice_16_974fa576_32c1d314_2012/AC/Temp/msohtmlclip1/01/clip_image002.jpg)
-
- 
-
 ## 3.1 Scrapy主要组件
 
 引擎(Scrapy)：用来处理整个系统的数据流处理, 触发事务(框架核心)
